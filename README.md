@@ -1,1 +1,1 @@
-netflix-clone
+Criação de um clone da página inicial do Netflix para projeto de Bootcamp da Digital Innovation One. Foram explorados alguns conceitos básicos de HTML, CSS e JavaScript, além do uso de JQuery para a implementação de um carrossel de imagens e media queries para trabalhar a responsividade.
